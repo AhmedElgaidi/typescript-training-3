@@ -1,0 +1,13 @@
+{
+  "name": "typescript-project-3",
+  "version": "1.0.0",
+  "description": "### 1) Any statically typed language follows one of two ways to assing data types to values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc src --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
